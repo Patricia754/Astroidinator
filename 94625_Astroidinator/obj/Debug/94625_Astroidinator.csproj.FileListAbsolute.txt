@@ -1,0 +1,11 @@
+C:\Users\patri\OneDrive\Documenten\APPR\94625_Astroidinator\obj\Debug\94625_Astroidinator.csproj.AssemblyReference.cache
+C:\Users\patri\OneDrive\Documenten\APPR\94625_Astroidinator\obj\Debug\_94625_Astroidinator.fmArduinoSerialConnect.resources
+C:\Users\patri\OneDrive\Documenten\APPR\94625_Astroidinator\obj\Debug\_94625_Astroidinator.fmLogging.resources
+C:\Users\patri\OneDrive\Documenten\APPR\94625_Astroidinator\obj\Debug\_94625_Astroidinator.Properties.Resources.resources
+C:\Users\patri\OneDrive\Documenten\APPR\94625_Astroidinator\obj\Debug\94625_Astroidinator.csproj.GenerateResource.cache
+C:\Users\patri\OneDrive\Documenten\APPR\94625_Astroidinator\obj\Debug\94625_Astroidinator.csproj.CoreCompileInputs.cache
+C:\Users\patri\OneDrive\Documenten\APPR\94625_Astroidinator\bin\Debug\test sercom.exe.config
+C:\Users\patri\OneDrive\Documenten\APPR\94625_Astroidinator\bin\Debug\test sercom.exe
+C:\Users\patri\OneDrive\Documenten\APPR\94625_Astroidinator\bin\Debug\test sercom.pdb
+C:\Users\patri\OneDrive\Documenten\APPR\94625_Astroidinator\obj\Debug\test sercom.exe
+C:\Users\patri\OneDrive\Documenten\APPR\94625_Astroidinator\obj\Debug\test sercom.pdb
